@@ -5,7 +5,7 @@
  * by Mik (smkk@amel-tech.com)
  *
  */
-#include <stdint-gcc.h>
+
 #include "rtdUri.h"
 #include <string.h>
 #include "rtdTypes.h"

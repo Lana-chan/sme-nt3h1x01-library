@@ -11,7 +11,7 @@
 #ifndef  NFCFORUM_H_
 #define  NFCFORUM_H_
 
-#include <stdint-gcc.h>
+#include <Arduino.h>
 #include <stdbool.h>
 
 #include "rtdTypes.h"

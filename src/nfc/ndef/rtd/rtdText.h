@@ -9,7 +9,7 @@
 #ifndef RTDTEXT_H_
 #define RTDTEXT_H_
 
-#include <stdint-gcc.h>
+#include <Arduino.h>
 #include "../../../SmeNfc.h"
 
 #define BIT_STATUS (1<<7)

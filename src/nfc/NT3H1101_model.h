@@ -5,7 +5,7 @@
  * by Mik (smkk@amel-tech.com)
  *
  */
-#include <stdint-gcc.h>
+#include <Arduino.h>
 
 #ifndef NT3H1101_MODEL_H_
 #define NT3H1101_MODEL_H_
